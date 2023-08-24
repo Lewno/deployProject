@@ -1,5 +1,5 @@
 
-import Img7 from '../assets/images/image7.jpg'
+import Img7 from '../assets/images/image7.png'
 
 
 const Login = () => {
