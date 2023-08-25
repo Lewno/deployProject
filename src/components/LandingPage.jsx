@@ -10,7 +10,7 @@ const LandingPage = () => {
       <NavBar />
       <Hero />
       <Staff/>
-      {/* <Profile /> */}
+      <Profile />
       <Footer />
     </>
   )

@@ -12,7 +12,7 @@ import ciruclo2 from '../assets/Group_1000000929-removebg-preview.png'
 const Staff = () => {
     return(
         <div className='flex justify-center'>
-            <div className="flex justify-center h-[888px] w-full mt-[100px] bg-[#A6DEF7] rounded-[120px] z-1 relative">
+            <div className="flex justify-center h-[888px] w-full mt-[100px] bg-[#A6DEF7] rounded-[120px] z-1 relative p-40">
                 <div className="mt-[20px]">
                     <div>
                         <p className='font-bold text-[24px] text-[#DC4928]'>Staff</p>
