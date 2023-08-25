@@ -1,5 +1,4 @@
 
-import {IoIosArrowForward} from "react-icons/Io"
 
 
 const Login = () => {
@@ -24,7 +23,6 @@ const Login = () => {
               </label>
               <button type="submit" className="bg-[#DC4928] hover:bg-[#d15f45] md:w-48 p-4 rounded text-white font-medium m-auto flex  justify-around items-center group/edit">
               <span>Ingresar</span>
-              <span className="text-xl group-hover/edit:translate-x-4 duration-300"><IoIosArrowForward/></span>
               </button>           
               <span className="text-center text-xs">Al registrarse en Sanatorio Integral de Salud, significa que acepta nuestra Política de privacidad y Términos de servicio</span>
             </div>
